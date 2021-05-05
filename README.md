@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JP9637
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Reactjs,Django,Python,JavaScript
-- 💞️ I’m looking to collaborate on Developer
+- 💞️ I’m looking to collaborate on reactjs
 - 📫 How to reach me jamble@gmail.com
 
 <!---
